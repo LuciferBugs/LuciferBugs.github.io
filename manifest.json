@@ -1,0 +1,8 @@
+{
+    "name": "TAPTON",
+    "description": "TAPTON - The best app tap to earn",
+    "url": "https://app.tapton.pro",
+    "iconUrl": "https://api.tapton.pro/logo-manifest.png",
+    "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/terms-of-use.txt",
+    "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/privacy-policy.txt"
+}
