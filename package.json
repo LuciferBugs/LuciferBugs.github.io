@@ -1,0 +1,38 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@bangjelkoski/node-stdlib-browser": "^0.0.1",
+    "@nuxtjs/device": "^3.2.4",
+    "@pinia/nuxt": "^0.5.4",
+    "@ton/core": "^0.58.1",
+    "@ton/crypto": "^3.3.0",
+    "@ton/ton": "^15.0.0",
+    "@tonconnect/ui": "^2.0.9",
+    "@vueuse/nuxt": "^11.1.0",
+    "axios": "^1.7.7",
+    "buffer": "^6.0.3",
+    "express": "^4.21.0",
+    "nuxt": "^3.13.0",
+    "pinia": "^2.2.2",
+    "ton-ui-vue": "^0.1.5",
+    "tonweb": "^0.0.66",
+    "vite-tsconfig-paths": "^5.0.1",
+    "vue": "latest",
+    "vue-router": "latest"
+  },
+  "devDependencies": {
+    "@bangjelkoski/vite-plugin-node-polyfills": "^0.0.2",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.12"
+  }
+}

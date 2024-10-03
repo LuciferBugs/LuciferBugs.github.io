@@ -1,0 +1,20 @@
+/* assets/css/tailwind.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'Digital7';
+  src: url('/e1234.regular.ttf') format('truetype'); /* Sesuaikan path ke file font */
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Oswald', sans-serif;
+  font-size: 14px;
+}
+
+.font-digital {
+  font-family: 'Digital7', sans-serif;
+}
